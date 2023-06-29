@@ -15,7 +15,7 @@ function GoalItem(props) {
 };
 
 export default GoalItem
-
+// test commit - 맥 완전종료 : 설정 초기화 되는지 확인
 const styles = StyleSheet.create({
     goalItem: {
         margin: 8,
