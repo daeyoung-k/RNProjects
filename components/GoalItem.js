@@ -15,7 +15,7 @@ function GoalItem(props) {
 };
 
 export default GoalItem
-
+// test commit
 const styles = StyleSheet.create({
     goalItem: {
         margin: 8,
